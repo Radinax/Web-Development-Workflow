@@ -1,7 +1,5 @@
 # Web Development Boilerplate for Websites
 
-> Run your client and server with a single command
-
 ## Quick Start
 
 ``` bash
